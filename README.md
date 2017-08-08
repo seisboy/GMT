@@ -1,5 +1,5 @@
 # GMT
-真皮沙发
+
 ## Receiver function
 - [plt_BGA.sh](ReceiverFunction/plt_BGA.sh)：绘制布格重力异常的二维分布图
 - [plt_Hmap.sh](ReceiverFunction/plt_Hmap.sh)：绘制莫霍面深度的二维分布图
